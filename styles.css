@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 20px 0;
+}
+
+header h1 {
+    color:red;
+    font-size: 4em;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+section p {
+    font-size: 1.2em;
+}
+
+section a {
+    display: incline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 5px;
+}
+
+section a:hover {
+    background-color: darkred;
+}
+
+footer {
+    padding: 10px;
+    background-color: #333;
+}
